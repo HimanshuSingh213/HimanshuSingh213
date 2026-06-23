@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer | Web Technologies Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=465&lines=B.Tech+CSE+Class+of+'29;Passionate+about+Building+Software;Building+Vidyavriksha;Crafting+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=465&lines=B.Tech+CSE-DS+Class+of+'29;Passionate+about+Building+Software;Building+Vidyavriksha;Crafting+Web+Experiences" alt="Typing SVG" />
 </p>
 
 ---
